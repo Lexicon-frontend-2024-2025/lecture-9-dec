@@ -42,7 +42,7 @@ Tema: Introduktion till CSS Flexbox.
 
  * 11:45 – 12:00 – Vad skall ni göra i eftermiddag?
     - Animation Bootcamp:
-     -- Fortsättning och förbereda för morgon dagen visa sina lösningar.
+     * Fortsättning och förbereda för morgon dagen visa sina lösningar.
     - Mängd träning på Flexbox.
     - Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i Flexbox, deadline torsdag.
 
