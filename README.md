@@ -14,20 +14,8 @@ Tema: Introduktion till CSS Flexbox.
   - Välkomna studenterna och gå igenom dagens agenda och mål samt kort om veckans agenda och mål
 
 * 09:30 – 10:45 – Teoretisk Introduktion till Flexbox:
-  * Presentation:
-    - Vad är CSS Flexbox och varför används det?
-    - Jämförelse mellan traditionella layoutmetoder och Flexbox.
-
-  * Genomgång av grundläggande koncept:
-    - Flex-container och flex-items.
-    - Huvudaxel (Horizontal) och tväraxel (Vertical).
-    - Viktiga egenskaper:
-      - display: flex;
-      - flex-direction
-      - justify-content
-      - align-items
-      - flex-wrap
-    - Exempel och demonstrationer.
+  * Power Point Presentation:
+    - Grunder i CSS Flexbox.
      
  ## 10:45 – 11:00 – Paus
 
@@ -42,14 +30,14 @@ Tema: Introduktion till CSS Flexbox.
 
  * 11:45 – 12:00 – Vad skall ni göra i eftermiddag?
     - Animation Bootcamp: Fortsättning och förbereda för morgon dagen visa sina lösningar. [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp)
-    - Mängd träning på Flexbox.
+    - Mängd träning på Flexbox, övningar hittar ni: [Code Along och övningar i denna branch](https://github.com/Lexicon-frontend-2024-2025/lecture-2-dec/).
     - Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i Flexbox, deadline torsdag.
 
 ## LUNCH 12.00 till 13.00.
 
 * 13:00 – 16:00 – Fortsättning med: Vad skall ni göra i eftermiddag?
     - Animation Bootcamp: Fortsättning och förbereda för morgon dagen visa sina lösningar. [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp)
-    - Mängd träning på Flexbox.
+    - Mängd träning på Flexbox, övningar hittar ni: [Code Along och övningar i denna branch](https://github.com/Lexicon-frontend-2024-2025/lecture-2-dec/).
     - Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i Flexbox, deadline torsdag.
       
  * Lärarstöd:
@@ -78,5 +66,6 @@ Tema: Introduktion till CSS Flexbox.
 * [Flexbox Bootcamp](https://github.com/Lexicon-frontend-2024-2025/flexbox-bootcamp/)
 * [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop)
 * [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp).
+* [Code Along och övningar i denna branch](https://github.com/Lexicon-frontend-2024-2025/lecture-2-dec/)
 
 
