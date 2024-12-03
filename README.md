@@ -41,14 +41,14 @@ Tema: Introduktion till CSS Flexbox.
      -  Applicera CSS för att omvandla layouten med Flexbox.
 
  * 11:45 – 12:00 – Vad skall ni göra i eftermiddag?
-    - Animation Bootcamp: Fortsättning och förbereda för morgon dagen visa sina lösningar.
+    - Animation Bootcamp: Fortsättning och förbereda för morgon dagen visa sina lösningar. [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp)
     - Mängd träning på Flexbox.
     - Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i Flexbox, deadline torsdag.
 
 ## LUNCH 12.00 till 13.00.
 
 * 13:00 – 16:00 – Fortsättning med: Vad skall ni göra i eftermiddag?
-    - Animation Bootcamp: Fortsättning och förbereda för morgon dagen visa sina lösningar.
+    - Animation Bootcamp: Fortsättning och förbereda för morgon dagen visa sina lösningar. [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp)
     - Mängd träning på Flexbox.
     - Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i Flexbox, deadline torsdag.
       
@@ -77,5 +77,6 @@ Tema: Introduktion till CSS Flexbox.
 ## Övningar: 
 * [Flexbox Bootcamp](https://github.com/Lexicon-frontend-2024-2025/flexbox-bootcamp/)
 * [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop)
+* [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp).
 
 
