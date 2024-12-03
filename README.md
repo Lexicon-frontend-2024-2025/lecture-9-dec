@@ -1,5 +1,4 @@
 # lecture-9-dec
-Introduktion till CSS Flexbox.
  
 # MÅNDAG 9 DECEMBER
 Tema: Introduktion till CSS Flexbox.
@@ -33,7 +32,7 @@ Tema: Introduktion till CSS Flexbox.
  ## 10:45 – 11:00 – Paus
 
 * 11:00 – 11:45 – Code-Along: Grunderna i Flexbox
- * Praktisk tillämpning:
+ - Praktisk tillämpning:
    - Skapa en enkel layout tillsammans med studenterna.
    - Använda de grundläggande flex-egenskaperna.
    
@@ -42,16 +41,16 @@ Tema: Introduktion till CSS Flexbox.
      -  Applicera CSS för att omvandla layouten med Flexbox.
 
  * 11:45 – 12:00 – Vad skall ni göra i eftermiddag?
-   * Animation Bootcamp:
-    - Fortsättning och förbereda för morgon dagen visa sina lösningar.
+    - Animation Bootcamp:
+     - Fortsättning och förbereda för morgon dagen visa sina lösningar.
     - Mängd träning på Flexbox.
     - Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i Flexbox, deadline torsdag.
 
 ## LUNCH 12.00 till 13.00.
 
 * 13:00 – 16:00 – Fortsättning med: Vad skall ni göra i eftermiddag?
-   * Animation Bootcamp:
-    - Fortsättning och förbereda för morgon dagen visa sina lösningar.
+    - Animation Bootcamp:
+     - Fortsättning och förbereda för morgon dagen visa sina lösningar.
     - Mängd träning på Flexbox.
     - Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i Flexbox, deadline torsdag.
       
@@ -79,5 +78,6 @@ Tema: Introduktion till CSS Flexbox.
 
 ## Övningar: 
 * [Flexbox Bootcamp](https://github.com/Lexicon-frontend-2024-2025/flexbox-bootcamp/)
+* [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop)
 
 
