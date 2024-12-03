@@ -20,13 +20,6 @@ Tema: Introduktion till CSS Flexbox.
  ## 10:45 – 11:00 – Paus
 
 * 11:00 – 11:45 – Code-Along: Grunderna i Flexbox
- - Praktisk tillämpning:
-   - Skapa en enkel layout tillsammans med studenterna.
-   - Använda de grundläggande flex-egenskaperna.
-   
-   - Steg-för-steg instruktioner:
-     -  Starta med en HTML-struktur.
-     -  Applicera CSS för att omvandla layouten med Flexbox.
 
  * 11:45 – 12:00 – Vad skall ni göra i eftermiddag?
     - Animation Bootcamp: Fortsättning och förbereda för morgon dagen visa sina lösningar. [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp)
