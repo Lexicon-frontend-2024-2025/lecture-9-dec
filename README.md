@@ -60,5 +60,6 @@ Tema: Introduktion till CSS Flexbox.
 * [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop)
 * [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp).
 * [Code Along och övningar i denna branch](https://github.com/Lexicon-frontend-2024-2025/lecture-9-dec/tree/codeAlong-flexbox)
+* [Flexbox Froggy](https://flexboxfroggy.com/#sv)
 
 
